@@ -31,4 +31,4 @@
 # Hvordan skru av bitlocker
 >Trykk på windows knappen og skriv "Administrer Bitlocker". Der finner du en knapp som heter "Deaktiver BitLocker"
 
-!(https://cdn.discordapp.com/attachments/760864383931777074/1024608856959090749/unknown.png)
+![](https://cdn.discordapp.com/attachments/760864383931777074/1024608856959090749/unknown.png)
