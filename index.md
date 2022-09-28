@@ -22,7 +22,7 @@
 
 ![](https://cdn.discordapp.com/attachments/760864383931777074/1024626550429192293/unknown.png)
 
-Her kan du velge "Lagre til Microsoft-kontoen" og da kan du finne den igjen [her](https://account.microsoft.com/devices/recoverykey), om dette ikke funker må du lagre nøkkelen på et annet sted. Om du velger å lagre nøkkelen på en annen måte er det viktig at du ikke mister denne, enten det er et ark eller en usb. Så lenge nøkkelen ikke ligger på microsoft kontoen, har du ingen mulighet for å hente denne nøkkelen andre steder en fra din pc, om bitlocker allerede har skrudd seg på, vil dette vere for seint.
+>Her kan du velge "Lagre til Microsoft-kontoen" og da kan du finne den igjen [her](https://account.microsoft.com/devices/recoverykey), om dette ikke funker må du lagre nøkkelen på et annet sted. Om du velger å lagre nøkkelen på en annen måte er det viktig at du ikke mister denne, enten det er et ark eller en usb. Så lenge nøkkelen ikke ligger på microsoft kontoen, har du ingen mulighet for å hente denne nøkkelen andre steder en fra din pc, om bitlocker allerede har skrudd seg på, vil dette vere for seint.
 
 >Den tredje metoden er å åpne cmd/ledetekst som administrator, deretter skriver du kommandoen ```manage-bde -protectors C: -get``` da vil du få opp bitlocker nøkkel som du ser på vedlagt bilde.
 
